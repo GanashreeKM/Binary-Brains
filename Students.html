@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Student List</h1>
+        <table id="studentTable">
+            <thead>
+                <tr>
+                    <th>Student ID</th>
+                    <th>Name</th>
+                    <th>Grade</th>
+                    <th>Subject</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <script>
+        fetch('http://127.0.0.1:5000/students')
+            .then(response => response.json())
+            .then(data => {
+                let tableBody = document.querySelector("#studentTable tbody");
+                data.forEach(student => {
+                    let row = `<tr>
+                        <td>${student.Student_ID}</td>
+                        <td>${student.Name}</td>
+                        <td>${student.Grade}</td>
+                        <td>${student.Subject}</td>
+                        <td>${student.Assessment_Score}</td>
+                    </tr>`;
+                    tableBody.innerHTML += row;
+                });
+            });
+    </script>
+</body>
+</html>

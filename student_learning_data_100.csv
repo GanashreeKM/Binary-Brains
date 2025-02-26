@@ -1,0 +1,101 @@
+Student_ID,Name,Grade,Subject,Assessment_Score,Learning_Gap,Accessibility_Needs
+1,Student_1,9,English,95,Struggles with algebra,Dyslexia
+2,Student_2,6,Math,45,Weak in multiplication,Hearing Impairment
+3,Student_3,8,History,90,Good in problem-solving,None
+4,Student_4,5,History,67,Weak in multiplication,None
+5,Student_5,10,History,81,Good in problem-solving,Hearing Impairment
+6,Student_6,6,Science,32,Good understanding,Vision Impairment
+7,Student_7,6,Math,93,Good understanding,Dyslexia
+8,Student_8,5,Math,67,Struggles with grammar,None
+9,Student_9,7,Geography,83,Good understanding,None
+10,Student_10,10,English,59,Weak in multiplication,Dyslexia
+11,Student_11,10,Geography,48,Needs help in essay writing,Vision Impairment
+12,Student_12,6,English,61,Poor reading skills,Dyslexia
+13,Student_13,7,History,86,Weak in multiplication,Vision Impairment
+14,Student_14,9,Math,65,Weak in multiplication,Hearing Impairment
+15,Student_15,6,Geography,32,Poor reading skills,Dyslexia
+16,Student_16,10,Science,46,Needs help in fractions,Vision Impairment
+17,Student_17,9,Geography,32,Needs help in fractions,None
+18,Student_18,5,English,31,Good understanding,None
+19,Student_19,6,English,94,Weak in multiplication,Dyslexia
+20,Student_20,6,History,65,Good understanding,None
+21,Student_21,9,English,74,Struggles with algebra,Hearing Impairment
+22,Student_22,5,History,43,Good understanding,None
+23,Student_23,10,Math,55,Needs help in fractions,None
+24,Student_24,10,Science,76,Difficulty in historical events,None
+25,Student_25,8,Math,96,Struggles with algebra,None
+26,Student_26,10,English,77,Good in problem-solving,None
+27,Student_27,8,Geography,32,Needs help in essay writing,None
+28,Student_28,9,History,86,Struggles with grammar,None
+29,Student_29,9,Geography,45,Weak in multiplication,None
+30,Student_30,9,Geography,46,Struggles with grammar,None
+31,Student_31,9,History,50,Weak in multiplication,Dyslexia
+32,Student_32,8,Math,86,Difficulty in historical events,Dyslexia
+33,Student_33,9,Math,45,Struggles with algebra,None
+34,Student_34,9,Math,90,Weak in multiplication,Dyslexia
+35,Student_35,7,History,84,Good in problem-solving,None
+36,Student_36,8,English,96,Needs help in physics,None
+37,Student_37,7,English,46,Struggles with algebra,Vision Impairment
+38,Student_38,6,Math,48,Struggles with algebra,None
+39,Student_39,8,History,55,Poor reading skills,Dyslexia
+40,Student_40,6,History,59,Struggles with algebra,None
+41,Student_41,5,Geography,96,Struggles with algebra,Vision Impairment
+42,Student_42,9,Math,98,Weak in multiplication,None
+43,Student_43,9,Math,98,Needs help in physics,None
+44,Student_44,8,History,36,Needs help in physics,Dyslexia
+45,Student_45,9,English,30,Good understanding,Vision Impairment
+46,Student_46,7,Geography,77,Struggles with grammar,None
+47,Student_47,9,History,94,Needs help in fractions,Hearing Impairment
+48,Student_48,10,History,61,Needs help in fractions,Vision Impairment
+49,Student_49,10,History,85,Poor reading skills,Hearing Impairment
+50,Student_50,8,Geography,54,Good in problem-solving,Hearing Impairment
+51,Student_51,5,English,53,Struggles with algebra,None
+52,Student_52,9,Science,72,Needs help in physics,Vision Impairment
+53,Student_53,8,History,64,Needs help in essay writing,None
+54,Student_54,10,History,81,Difficulty in historical events,Hearing Impairment
+55,Student_55,8,History,90,Struggles with algebra,None
+56,Student_56,7,Geography,63,Good in problem-solving,None
+57,Student_57,9,Math,87,Good in problem-solving,Hearing Impairment
+58,Student_58,9,Science,37,Needs help in physics,Dyslexia
+59,Student_59,7,Math,55,Struggles with grammar,None
+60,Student_60,6,Geography,79,Poor reading skills,None
+61,Student_61,6,Math,37,Good understanding,None
+62,Student_62,8,Science,66,Weak in multiplication,Vision Impairment
+63,Student_63,9,Geography,79,Poor reading skills,Dyslexia
+64,Student_64,6,History,49,Needs help in essay writing,Hearing Impairment
+65,Student_65,10,Science,53,Needs help in physics,None
+66,Student_66,8,English,30,Good understanding,Vision Impairment
+67,Student_67,10,Science,33,Struggles with algebra,None
+68,Student_68,8,Math,30,Needs help in essay writing,Dyslexia
+69,Student_69,9,Science,60,Struggles with grammar,Vision Impairment
+70,Student_70,7,Geography,82,Struggles with algebra,None
+71,Student_71,10,English,54,Good in problem-solving,None
+72,Student_72,10,Math,95,Needs help in essay writing,Vision Impairment
+73,Student_73,8,Science,70,Needs help in physics,Vision Impairment
+74,Student_74,10,Geography,51,Weak in multiplication,Vision Impairment
+75,Student_75,6,Math,32,Poor reading skills,None
+76,Student_76,9,History,47,Needs help in essay writing,Vision Impairment
+77,Student_77,8,Math,55,Needs help in fractions,Vision Impairment
+78,Student_78,8,History,54,Needs help in essay writing,Hearing Impairment
+79,Student_79,10,English,34,Good in problem-solving,Vision Impairment
+80,Student_80,7,Geography,90,Weak in multiplication,Hearing Impairment
+81,Student_81,5,English,49,Good understanding,Dyslexia
+82,Student_82,10,History,87,Needs help in physics,Hearing Impairment
+83,Student_83,8,English,94,Poor reading skills,Dyslexia
+84,Student_84,10,English,49,Difficulty in historical events,Hearing Impairment
+85,Student_85,10,Geography,65,Difficulty in historical events,Dyslexia
+86,Student_86,6,History,88,Poor reading skills,Vision Impairment
+87,Student_87,9,Geography,74,Good understanding,None
+88,Student_88,8,Math,60,Struggles with grammar,Vision Impairment
+89,Student_89,9,English,58,Struggles with algebra,Hearing Impairment
+90,Student_90,5,Math,39,Difficulty in historical events,Dyslexia
+91,Student_91,9,Geography,99,Difficulty in historical events,Hearing Impairment
+92,Student_92,10,History,67,Good in problem-solving,Vision Impairment
+93,Student_93,8,Math,99,Poor reading skills,Dyslexia
+94,Student_94,9,English,43,Struggles with grammar,None
+95,Student_95,7,History,72,Good in problem-solving,Hearing Impairment
+96,Student_96,10,Geography,60,Needs help in essay writing,Dyslexia
+97,Student_97,7,English,80,Needs help in fractions,Vision Impairment
+98,Student_98,6,History,53,Good understanding,None
+99,Student_99,7,Geography,47,Needs help in essay writing,Hearing Impairment
+100,Student_100,10,Geography,85,Good understanding,None
